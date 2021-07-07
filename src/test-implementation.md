@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-Today, rust programmers rely on a built in attribute called `#[test]`. All
+Today, rust programmers rely on an attribute called `#[test]`. All
 you have to do is mark a function as a test and include some asserts like so:
 
 ```rust,ignore
